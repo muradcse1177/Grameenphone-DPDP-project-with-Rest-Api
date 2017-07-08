@@ -1,0 +1,1 @@
+{"accesInfo":{"endUserId":"String","language":"String","accesschannel":"String"," serverReferenceCode ":"String "},"smsInfo":{"servcieIdentifier":"String","productIdentifier":"String","msgTransactionId":"String","shortcode":"String","msgType":"String","message":"String","totalAmountCharged":"1.0"}}

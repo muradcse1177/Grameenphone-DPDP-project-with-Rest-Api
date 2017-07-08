@@ -1,0 +1,1 @@
+{"statusInfo":{"statusCode":"String","referenceCode":"String","serverReferenceCode":"String","serverBatchReferenceCode":"String","totalAmountCharged":"1.0"}}
